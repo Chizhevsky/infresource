@@ -1,0 +1,105 @@
+body {
+    background-color: #FAFAFA;
+    font-family: 'Baloo', cursive;
+}
+
+h1, h4 {
+    color: #616161;
+}
+
+.row {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+#fix-nav {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+}
+
+.navbar.navbar-default {
+    background-color: #00838F;
+    border-radius: 0;
+}
+
+.navbar.navbar-default a {
+    color: white;
+}
+
+.nav.navbar-nav.navbar-right li a {
+    color: white;
+}
+
+#main-img {
+	background-color: #00838F;
+	padding: 280px 0;
+}
+
+#main-img span {
+    font-size: 100px;
+    color: white;
+}
+
+#main-img h1,
+#main-img h2 {
+	color: white;
+}
+
+#main-img button {
+	background-color: #00838F;
+	color: white;
+	width: 200px;
+	height: 50px;
+	border-radius: 50px;
+	border: 2px solid white;
+	margin-top: 20px;
+}
+
+.panel {
+    border: 1px solid #00838F;
+    margin-top: 90px;
+}
+
+.panel .panel-heading {
+    background-color: #00838F;
+}
+
+.panel-title {
+    color: white;
+}
+
+.catalog {
+    margin: 50px auto 100px;
+}
+
+.sn-logo {
+    max-width: 50px;
+}
+
+#about .panel-body{
+	padding: 300px 70px;
+}
+
+#contacts .panel-body {
+	padding:300px 0 400px;
+}
+
+footer {
+    background-color: #00838F;
+    color: white;
+    padding: 50px;
+    margin-top: 50px;
+}
+
+footer div a {
+    color: white;
+    text-decoration: none;
+}
+
+footer div a:hover {
+    color: white;
+    text-decoration: none;
+}
